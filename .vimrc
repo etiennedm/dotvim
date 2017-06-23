@@ -10,3 +10,6 @@ let g:ctrlp_custom_ignore = {
   \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site|\.vscode|node_modules)$',
   \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg|swp)$',
   \}
+
+" NERDTree
+map <C-n> :NERDTreeToggle<CR>
