@@ -4,6 +4,7 @@ call pathogen#helptags()
 
 set number
 set hidden
+set mouse=a
 
 " vim-gitgutter
 " Set refresh time 250ms
