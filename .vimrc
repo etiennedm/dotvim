@@ -16,8 +16,7 @@ let g:gitgutter_sign_column_always=1
 " vim-airline
 " User patched fonts for a nice status bar
 let g:airline_powerline_fonts = 1
-let g:airline_solarized_bg='dark'
-let g:airline_theme='solarized'
+let g:airline_theme='powerlineish'
 
 " Ctrl-P
 let g:ctrlp_map = '<c-p>'
